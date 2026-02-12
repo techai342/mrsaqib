@@ -13,7 +13,7 @@
 <div align="center">
 
   <!-- PROFILE PICTURE WITH NEON GLOW EFFECT -->
-  <a href="https://saqibvisuals.com">
+  <a href="https://saqib.zone.id">
     <img src="https://ik.imagekit.io/shaban/SHABAN-1768573425069_nIPVZQOaT.jpg" width="180" height="180" style="border-radius: 50%; border: 6px solid #00f2ea; box-shadow: 0 0 35px #00f2ea, 0 0 15px #ffffff;">
   </a>
 
@@ -28,7 +28,7 @@
 
   <!-- SOCIAL BADGES - ROW 1 -->
   <p>
-    <a href="https://saqibvisuals.com">
+    <a href="https://mrsaqib.vercel.app">
       <img src="https://img.shields.io/badge/Website-SaqibVisuals.com-blue?style=for-the-badge&logo=vercel&logoColor=white&color=000000&border=white" alt="Website">
     </a>
     <a href="https://wa.me/923478936242">
@@ -47,7 +47,7 @@
     <a href="mailto:mrsaqib242242@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-Business_Inquiries-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
-    <a href="https://github.com/mrsaqib242">
+    <a href="https://github.com/tech242242">
       <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
   </p>
@@ -130,12 +130,12 @@ I don't just use tools; I master them to create visual symphonies.
 <div align="center">
   
   <!-- GITHUB STATS CARD -->
-  <a href="https://github.com/mrsaqib242">
+  <a href="https://github.com/tech242242">
     <img src="https://github-readme-stats.vercel.app/api?username=mrsaqib242&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=00f2ea&icon_color=ff005c&text_color=ffffff&count_private=true&include_all_commits=true" height="180" alt="stats" />
   </a>
   
   <!-- TOP LANGUAGES CARD -->
-  <a href="https://github.com/mrsaqib242">
+  <a href="https://github.com/tech242242">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaqib242&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=00f2ea&text_color=ffffff" height="180" alt="languages" />
   </a>
 
@@ -171,7 +171,7 @@ I don't just use tools; I master them to create visual symphonies.
 ## 🐍 Code Contribution Cycle
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrsaqib242&theme=react&bg_color=050505&hide_border=true&area=true&color=00f2ea" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tech242242&theme=react&bg_color=050505&hide_border=true&area=true&color=00f2ea" width="100%" alt="Activity Graph" />
 </div>
 
 ---
@@ -230,7 +230,7 @@ graph TD;
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Let's%20Build%20Something%20Incredible&fontSize=30&fontAlignY=40&animation=twinkling&fontColor=ffffff" width="100%"/>
   
   <h3>
-    <a href="https://saqibvisuals.com">VISIT OFFICIAL PORTFOLIO</a>
+    <a href="https://mrsaqib.vercel.app">VISIT OFFICIAL PORTFOLIO</a>
   </h3>
   
   <p>© 2026 Saqib Visuals. All Rights Reserved.</p>
