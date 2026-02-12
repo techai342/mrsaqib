@@ -125,14 +125,7 @@ I don't just use tools; I master them to create visual symphonies.
      GITHUB STATS & ANALYTICS
      ========================================================================================= -->
 
-## 📊 The Data Center
 
-<div align="center">
-  
-  <!-- GITHUB STATS CARD -->
-  <a href="https://github.com/tech242242">
-    <img src="https://github-readme-stats.vercel.app/api?username=mrsaqib242&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=00f2ea&icon_color=ff005c&text_color=ffffff&count_private=true&include_all_commits=true" height="180" alt="stats" />
-  </a>
   
   <!-- TOP LANGUAGES CARD -->
   <a href="https://github.com/tech242242">
