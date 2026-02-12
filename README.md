@@ -74,10 +74,7 @@ This project uses a "Visual First" tech stack:
 <div align="center">
   <!-- CHANGE "mrsaqib242" TO YOUR REAL GITHUB USERNAME IF THE IMAGES ARE BROKEN -->
   
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=mrsaqib242&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505" height="170" alt="github stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaqib242&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505" height="170" alt="top languages"/>
-  </p>
+
 
   <!-- Streak Stats (Fire) -->
   <p>
