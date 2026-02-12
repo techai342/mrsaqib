@@ -1,114 +1,102 @@
 <div align="center">
 
-  <img src="https://ik.imagekit.io/shaban/SHABAN-1768573425069_nIPVZQOaT.jpg" alt="Saqib Visuals Logo" width="120" height="120" style="border-radius: 50%; border: 4px solid #00f2ea;">
+  <!-- Profile Image with Neon Glow -->
+  <a href="https://saqibvisuals.com">
+    <img src="https://ik.imagekit.io/shaban/SHABAN-1768573425069_nIPVZQOaT.jpg" width="140" height="140" style="border-radius: 50%; border: 4px solid #00f2ea; box-shadow: 0 0 25px #00f2ea;">
+  </a>
 
-  # ✨ SAQIB VISUALS | PREMIUM PORTFOLIO
+  <!-- Typing SVG Animation -->
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=45&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=SAQIB+VISUALS;Premium+Video+Editing;Next-Gen+Web+Design;Creative+Direction;Visual+Storytelling" alt="Typing SVG" />
+  </a>
 
-  **The intersection of Visual Artistry and Creative Engineering.**
-  
-  <p>
-    <a href="https://saqibvisuals.com/">View Live Demo</a> •
-    <a href="#-features">Key Features</a> •
-    <a href="#-tech-stack">Tech Stack</a> •
-    <a href="#-installation">Installation</a>
+  <p align="center">
+    <b style="color: #cccccc;">The intersection of Visual Artistry and Creative Engineering.</b>
   </p>
 
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+  <!-- Animated Tech Stack Icons -->
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,framer,photoshop,ae,pr,figma&theme=dark" />
+    </a>
+  </p>
+
+  <!-- Action Badges -->
+  <p align="center">
+    <a href="https://saqibvisuals.com">
+      <img src="https://img.shields.io/badge/View_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white&border=blue" alt="Live Demo">
+    </a>
+    <a href="https://wa.me/923478936242">
+      <img src="https://img.shields.io/badge/WhatsApp_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    </a>
+  </p>
 
 </div>
 
 ---
 
-## 🚀 About The Project
+## ⚡ Visual Masterpiece
 
-**Saqib Visuals** is not just a portfolio; it's an immersive web experience. Built to showcase high-end visual editing, graphic design, and cinematography, this application pushes the boundaries of standard web design.
+**Saqib Visuals** is an ultra-modern portfolio built with **React 18** and **Vite**. It breaks the mold of traditional websites by integrating high-end motion graphics concepts into the DOM using **Framer Motion**.
 
-It features a **magazine-style layout**, **RGB aesthetics**, and **complex scroll animations** inspired by modern design trends (Vexx, Neon, Grunge).
-
-## 🌟 Key Features
-
-*   **📱 PWA Ready (Progressive Web App):** Fully installable on Android and iOS devices. Works offline and feels like a native app.
-*   **⚡ Blazing Fast Performance:** Powered by Vite for instant loading and HMR.
-*   **🎨 RGB & Neon Aesthetics:** Custom CSS animations featuring glowing borders, RGB flows, and glassmorphism.
-*   **🎬 Advanced Animations:** Heavily utilizes `Framer Motion` for:
-    *   Scroll-triggered reveals
-    *   Parallax effects
-    *   Smooth layout transitions
-    *   3D card tilts
-*   **🖼️ Interactive Gallery:** A custom-built lightbox gallery with download and share functionality.
-*   **💬 WhatsApp Integration:** Floating chat widget for direct client communication.
-*   **📱 Fully Responsive:** Meticulously crafted for mobile, tablet, and 4K desktop screens.
+> *"I don't just edit videos; I craft digital experiences."*
 
 ---
 
-## 🛠 Tech Stack
+## 🎨 Aesthetic & Features
 
-| Technology | Usage |
+| Feature | Description |
 | :--- | :--- |
-| **React 18** | Core UI Library |
-| **TypeScript** | Type safety and robust code structure |
-| **Vite** | Next-generation frontend tooling |
-| **Tailwind CSS** | Utility-first styling for rapid UI development |
-| **Framer Motion** | Production-ready animation library |
-| **Lucide React** | Beautiful, consistent icons |
+| **🌀 RGB Flow** | Custom CSS animations mimicking RGB split channels and neon glows. |
+| **📱 PWA Native** | Installable on iOS/Android with custom splash screens and icons. |
+| **🎭 Scroll Magic** | Parallax scrolling, revealing sections, and sticky 3D elements. |
+| **🖼️ Lightbox Gallery** | Custom-built masonry gallery with download & share capabilities. |
+| **🚀 Speed** | Optimized with Vite, lazy loading, and code splitting. |
 
 ---
 
-## 📦 Installation & Setup
+## 🛠️ The Creative Stack
 
-Want to run this locally? Follow these steps:
+This project uses a "Visual First" tech stack:
 
-1.  **Clone the repository**
-    ```bash
-    git clone https://github.com/your-username/saqib-visuals-portfolio.git
-    cd saqib-visuals-portfolio
-    ```
-
-2.  **Install Dependencies**
-    ```bash
-    npm install
-    ```
-
-3.  **Run Development Server**
-    ```bash
-    npm run dev
-    ```
-
-4.  **Build for Production**
-    ```bash
-    npm run build
-    ```
+*   **Core:** `React 19`, `TypeScript`
+*   **Build Tool:** `Vite`
+*   **Styling:** `Tailwind CSS` (Custom Config for RGB/Neon)
+*   **Animation:** `Framer Motion` (Complex orchestrations)
+*   **Icons:** `Lucide React`
+*   **Deploy:** `Netlify` / `Vercel`
 
 ---
 
-## 📂 Project Structure
+## 📊 GitHub Stats
+
+<div align="center">
+  <!-- Note: Ensure your GitHub username is correct in these URLs -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mrsaqib242&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaqib242&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505" height="180" alt="languages graph"  />
+</div>
+
+---
+
+## 📂 Installation
 
 ```bash
-├── 📁 components    # 20+ Custom animated sections (Hero, Gallery, NeonParty, etc.)
-├── 📁 public        # Static assets and Manifest file
-├── 📄 App.tsx       # Main application logic & scroll orchestrator
-├── 📄 index.html    # Entry point with SEO & PWA meta tags
-├── 📄 tailwind.config.js # Custom theme configuration
-└── 📄 vite.config.ts     # Vite bundler configuration
+# 1. Clone the repository
+git clone https://github.com/mrsaqib242/saqib-visuals-portfolio.git
+
+# 2. Enter directory
+cd saqib-visuals-portfolio
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the neon party
+npm run dev
 ```
 
 ---
 
-## 🤝 Contact
-
-**Saqib Visuals** - *Visual Storyteller & Developer*
-
-*   **WhatsApp:** [Chat with Me](https://wa.me/923478936242)
-*   **Instagram:** [@mr_saqib242](https://www.instagram.com/mr_saqib242)
-*   **Email:** mrsaqib242242@gmail.com
-
----
-
 <div align="center">
-  <p>If you like this portfolio, don't forget to give it a ⭐!</p>
-  <sub>© 2026 Saqib Visuals. All rights reserved.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Created%20by%20Saqib%20Visuals&fontSize=25&fontAlignY=40&desc=Est.%202026&descAlignY=60&animation=fadeIn" width="100%"/>
 </div>
