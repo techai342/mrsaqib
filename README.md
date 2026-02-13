@@ -228,7 +228,7 @@ Detailed breakdown of my most significant deployments.
 | **Fashion Zone** | 👗 Apparel | 🟢 Live | Next.js | [Visit](https://shoes.zone.id) |
 | **Unban Tool** | 🛠️ Utility | 🟡 Beta | JS | [Visit](https://Unban.zone.id) |
 | **Tech AI Zone** | 📰 Blog | 🟢 Live | WP/PHP | [Visit](https://techai.zone.id) |
-| **Social Hacking** | 🔍 OSINT | 🔴 Offline | Python | [Visit](https://follower-woz5.vercel.app/) |
+| **Social Hacking** | 🔍 OSINT | 🟢 Live | Python | [Visit](https://follower-woz5.vercel.app/) |
 
 ---
 
