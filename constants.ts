@@ -20,6 +20,96 @@ export const SKILLS: Skill[] = [
   { name: 'Creative', icon: 'lightbulb' },
 ];
 
+export const PROJECTS = [
+    { 
+        name: "FF Tournament", 
+        url: "https://freefire.zone.id/", 
+        category: "Gaming",
+        image: "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80&w=800",
+        desc: "Competitive gaming platform for Free Fire tournaments."
+    },
+    { 
+        name: "Open Bazaar", 
+        url: "https://openbazaar.vercel.app/#/", 
+        category: "E-Commerce",
+        image: "https://images.unsplash.com/photo-1556742049-0cfed4f7a07d?auto=format&fit=crop&q=80&w=800",
+        desc: "Decentralized marketplace for open trade."
+    },
+    { 
+        name: "Saqib AI Studio", 
+        url: "https://saqibaistudio.vercel.app/", 
+        category: "AI Tool",
+        image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800",
+        desc: "Next-gen AI generation studio."
+    },
+    { 
+        name: "Food One", 
+        url: "https://food-one-jade.vercel.app/#/", 
+        category: "Food & Delivery",
+        image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&q=80&w=800",
+        desc: "Modern food ordering and delivery platform."
+    },
+    { 
+        name: "Shoes Hub", 
+        url: "https://shoes-91zl.vercel.app/", 
+        category: "Fashion",
+        image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&q=80&w=800",
+        desc: "Premium footwear showcase store."
+    },
+    { 
+        name: "Fashion Zone", 
+        url: "https://shoes.zone.id", 
+        category: "E-Commerce",
+        image: "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&q=80&w=800",
+        desc: "Trendy fashion and apparel collection."
+    },
+    { 
+        name: "Unban Tool", 
+        url: "https://Unban.zone.id", 
+        category: "Utility",
+        image: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?auto=format&fit=crop&q=80&w=800",
+        desc: "Account recovery and unban utility service."
+    },
+    { 
+        name: "Tech AI Zone", 
+        url: "https://techai.zone.id", 
+        category: "Tech Blog",
+        image: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=800",
+        desc: "Latest technology news and AI updates."
+    },
+    { 
+        name: "Free Hosting", 
+        url: "https://techai1.kesug.com/", 
+        category: "Service",
+        image: "https://ik.imagekit.io/19imy4f1u/compressed_1771011792594_Qj4-mzc_m.jpg",
+        desc: "Free web hosting services for developers.",
+        disableEmbed: true
+    },
+    { 
+        name: "Toolkit Gen", 
+        url: "https://techai.ct.ws/", 
+        category: "Dev Tools",
+        image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80&w=800",
+        desc: "All-in-one developer toolkit generator.",
+        disableEmbed: true
+    },
+    { 
+        name: "Cam + Loc Hack", 
+        url: "https://saqib242.ct.ws/", 
+        category: "Security",
+        image: "https://ik.imagekit.io/19imy4f1u/compressed_1771011731138_bkjdYfz8J.jpg",
+        desc: "Security testing and location tools.",
+        disableEmbed: true
+    },
+    { 
+        name: "Social Hacking", 
+        url: "https://follower-woz5.vercel.app/", 
+        category: "Social Media",
+        image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=800",
+        desc: "Social media growth and analysis tools."
+    }
+];
+
 // Extracted from provided HTML
 export const GALLERY_IMAGES: GalleryItem[] = [
     "https://ik.imagekit.io/shaban/SHABAN-1768573425069_nIPVZQOaT.jpg",

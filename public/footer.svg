@@ -1,0 +1,10 @@
+<svg width="800" height="100" viewBox="0 0 800 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="100" fill="#050505"/>
+  <path d="M0 0 C 200 20 600 20 800 0 L 800 100 L 0 100 Z" fill="#0a0a0a"/>
+  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#666">
+    © 2026 SAQIB VISUALS • BUILT WITH PASSION
+  </text>
+  <circle cx="400" cy="30" r="3" fill="#00f2ea">
+    <animate attributeName="opacity" values="0;1;0" duration="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
