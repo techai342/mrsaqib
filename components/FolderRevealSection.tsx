@@ -67,8 +67,13 @@ const FolderRevealSection: React.FC = () => {
             </p>
         </motion.div>
 
-        {/* 3D Folder Container */}
-        <div className="relative w-[300px] md:w-[400px] h-[250px] perspective-[1200px] group">
+        {/* 3D Folder Container - Parent Trigger */}
+        <motion.div 
+            className="relative w-[300px] md:w-[400px] h-[250px] perspective-[1200px] group"
+            initial="hidden"
+            whileInView="visible"
+            viewport={{ once: true, margin: "-100px" }} // Trigger when folder is near
+        >
             
             {/* --- Folder Back Plate --- */}
             <div className="absolute inset-0 bg-[#1e293b] rounded-xl border border-white/10 shadow-2xl transition-transform duration-500">
@@ -93,21 +98,22 @@ const FolderRevealSection: React.FC = () => {
                     return (
                         <motion.div
                             key={i}
-                            initial={{ y: 300, x: 0, rotate: 0, opacity: 0, scale: 0.5 }}
-                            whileInView={{ 
-                                y: y,
-                                x: x,
-                                rotate: rotate, 
-                                opacity: 1, 
-                                scale: 1 
-                            }}
-                            viewport={{ once: true, amount: 0.3 }} // Trigger when 30% of element is in view
-                            transition={{ 
-                                delay: i * 0.05, // Fast Stagger
-                                duration: 0.6,   // Fast Pop
-                                type: "spring", 
-                                bounce: 0.4,
-                                stiffness: 100
+                            variants={{
+                                hidden: { y: 300, x: 0, rotate: 0, opacity: 0, scale: 0.5 },
+                                visible: { 
+                                    y: y,
+                                    x: x,
+                                    rotate: rotate, 
+                                    opacity: 1, 
+                                    scale: 1,
+                                    transition: { 
+                                        delay: i * 0.05, // Fast Stagger
+                                        duration: 0.6,   // Fast Pop
+                                        type: "spring", 
+                                        bounce: 0.4,
+                                        stiffness: 100
+                                    }
+                                }
                             }}
                             className="absolute bottom-0 w-36 h-48 md:w-44 md:h-60 bg-white p-2 rounded-lg shadow-[0_20px_40px_rgba(0,0,0,0.6)] border border-gray-200 origin-bottom hover:z-50 transition-all duration-300 hover:scale-125 group-hover:cursor-pointer"
                             style={{ zIndex: i === Math.floor(totalFiles/2) ? 20 : 10 }}
@@ -150,7 +156,7 @@ const FolderRevealSection: React.FC = () => {
             {/* --- Glow Effect Behind --- */}
             <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[200%] h-[200%] bg-blue-500/20 blur-[120px] -z-10 rounded-full animate-pulse"></div>
 
-        </div>
+        </motion.div>
 
       </div>
     </section>
